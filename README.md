@@ -26,3 +26,5 @@ Useful inference from the data for the Budweiser brand.
 
 # YouTube links:
 
+Halle Purdom: https://youtu.be/vVQMNWwsJ8Y 
+
